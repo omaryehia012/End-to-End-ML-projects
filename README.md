@@ -19,3 +19,7 @@
 <b>11.Price:-</b> Price of the flight.<br>
     <br>
 </p>
+
+
+## 2.CC_Approvals
+![](https://th.bing.com/th/id/R.caa2380aad283d8587d00f0414f8f5ae?rik=wzPbj3b2%2bJlFKA&riu=http%3a%2f%2fs29322.pcdn.co%2fwp-content%2fuploads%2f2019%2f06%2fChoosingAnInstantApprovalCreditCard-700x400.jpg.optimal.jpg&ehk=zll4LXCoJvEhJhvoCIk6%2fb2hPzsSriLCohpXwj3m96k%3d&risl=&pid=ImgRaw&r=0)
