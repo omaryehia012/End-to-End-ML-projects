@@ -1,6 +1,7 @@
 
 import pickle
 #import joblib
+import sklearn
 import streamlit as st
 from variables import *
  
