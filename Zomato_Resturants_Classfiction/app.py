@@ -1,6 +1,6 @@
 
 import pickle
-import joblib
+fom requirments import joblib
 import streamlit as st
 from variables import *
  
