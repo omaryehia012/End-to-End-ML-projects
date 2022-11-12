@@ -1,6 +1,3 @@
-Collecting joblib==1.0.1
-  Downloading joblib-1.0.1-py3-none-any.whl
-
 
 import pickle
 import joblib
