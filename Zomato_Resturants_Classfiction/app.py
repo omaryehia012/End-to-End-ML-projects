@@ -1,11 +1,10 @@
-import pickle
 import joblib
 import streamlit as st
 from variables import *
  
 # loading the trained model
-scaler = joblib.load(r'scaler.h5')
-model = joblib.load(r'Zomato Restaurants')
+scaler = joblib.load('scaler.h5')
+model = joblib.load('Zomato Restaurants.h5')
 
  
 @st.cache()
