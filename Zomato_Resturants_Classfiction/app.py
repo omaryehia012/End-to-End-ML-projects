@@ -1,6 +1,6 @@
- !pip install joblib
+!pip install joblib
 
- import pickle
+import pickle
 import joblib
 import streamlit as st
 from variables import *
