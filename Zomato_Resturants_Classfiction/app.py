@@ -6,8 +6,9 @@ from variables import *
 # loading the trained model
 #scaler = joblib.load(open('scaler.h5','rb'))
 #model = joblib.load(open('Zomato Restaurants.h5','rb'))
-scaler = pickle.load(open('scaler.h5','rb'))
 model = pickle.load(open('model.h5','rb'))
+scaler = pickle.load(open('scaler.h5','rb'))
+
  
 @st.cache()
   
