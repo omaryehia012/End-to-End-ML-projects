@@ -4,8 +4,8 @@ import streamlit as st
 from variables import *
  
 # loading the trained model
-scaler = joblib.load('scaler.h5')
-model = joblib.load('Zomato Restaurants')
+#scaler = joblib.load('scaler.h5')
+#model = joblib.load('Zomato Restaurants')
  
 @st.cache()
   
