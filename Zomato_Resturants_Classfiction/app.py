@@ -1,7 +1,7 @@
 pip3 install joblib
 
 import pickle
-import joblib
+#import joblib
 import streamlit as st
 from variables import *
  
