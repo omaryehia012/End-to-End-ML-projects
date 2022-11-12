@@ -3,8 +3,8 @@ import streamlit as st
 from variables import *
  
 # loading the trained model
-scaler = joblib.load(open('scaler.h5',"rb"))
-model = joblib.load(open('Zomato Restaurants.h5',"rb"))
+scaler = joblib.load(open('Zomato_Resturants_Classfiction/scaler.h5',"rb"))
+model = joblib.load(open('Zomato_Resturants_Classfiction/Zomato Restaurants.h5',"rb"))
 
 
  
