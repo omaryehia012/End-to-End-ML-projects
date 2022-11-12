@@ -1,11 +1,12 @@
 import pickle
-#import joblib
+import joblib
 import streamlit as st
 from variables import *
  
 # loading the trained model
-model=pickle.load(open('/app/epsilon-training-projects/Zomato_Resturants_Classfiction/model.pkl', 'rb'))
-scaler=pickle.load(open('scaler.pkl', 'rb'))
+scaler = joblib.load(r'scaler.h5')
+model = joblib.load(r'Zomato Restaurants')
+
  
 @st.cache()
   
