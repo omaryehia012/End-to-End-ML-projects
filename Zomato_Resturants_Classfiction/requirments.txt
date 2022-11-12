@@ -1,4 +1,5 @@
 numpy
+streamlit
 joblib
 stop_words
 pandas
