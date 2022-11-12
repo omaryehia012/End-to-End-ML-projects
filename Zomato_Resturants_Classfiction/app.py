@@ -5,7 +5,7 @@ import streamlit as st
 from variables import *
  
 # loading the trained model
-model=pickle.load(open('model.pkl', 'rb'))
+model=pickle.load(open('/app/epsilon-training-projects/Zomato_Resturants_Classfiction/model.pkl', 'rb'))
 scaler=pickle.load(open('scaler.pkl', 'rb'))
  
 @st.cache()
