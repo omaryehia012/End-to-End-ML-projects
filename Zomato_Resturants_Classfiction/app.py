@@ -1,7 +1,6 @@
+pip3 install joblib
 
 import pickle
-import sklearn
-import sklearn.external.joblib as extjoblib
 import joblib
 import streamlit as st
 from variables import *
