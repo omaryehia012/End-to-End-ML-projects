@@ -1,4 +1,3 @@
-pip install joblib
 
 import pickle
 import joblib
