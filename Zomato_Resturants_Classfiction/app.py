@@ -1,4 +1,4 @@
-pip install sklearn
+!pip install sklearn
 import pickle
 #import joblib
 import sklearn
