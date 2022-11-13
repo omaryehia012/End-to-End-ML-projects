@@ -24,7 +24,7 @@ https://omaryehia012-epsilon-t-zomato-resturants-classfictionapp-93o00p.streamli
 <b>15. menu_item :-</b> contains list of menus available in the restaurant<br> 
 <b>16. listed_in(type) :-</b> type of meal.<br>     
 <b>17. listed_in(city) :-</b> contains the neighborhood in which the restaurant is located. <br> 
-    
-    <br>
-    
+        
 </p>
+
+![](https://github.com/omaryehia012/Epsilon-training-projects/blob/main/Zomato_Resturants_Classfiction/Application.png)
