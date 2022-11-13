@@ -105,7 +105,7 @@ def main():
         st.markdown(f'<h1 style="color:#33ff33;font-size:50px;text-align:center;border-style: solid;border-width:5px;border-color:#fbff00;">{result}</h1>', unsafe_allow_html=True)
    
    ## show resturant image
-    st.image('Zomato_Resturants_Classfiction/Zomato-1.jpg')    
+    st.image('Zomato_Resturants_Classfiction/images/Zomato-1.jpg')    
      
 if __name__=='__main__': 
     main()
