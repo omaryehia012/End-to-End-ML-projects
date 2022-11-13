@@ -3,7 +3,7 @@
 **show my application**
 https://omaryehia012-epsilon-t-zomato-resturants-classfictionapp-93o00p.streamlit.app/
 
-![](https://github.com/omaryehia012/Epsilon-training-projects/blob/main/Zomato_Resturants_Classfiction/Zomato-1.jpg)
+![](https://github.com/omaryehia012/Epsilon-training-projects/blob/main/Zomato_Resturants_Classfiction/images/Zomato-1.jpg)
 
 <h3 style="color:#0099e6;font-size:35px;font-family:Georgia;text-align:center;"><strong><strong style="color:#fd1c20;font-size:35px;font-family:Georgia;">About <strong style="color:#00e617;font-size:35px;font-family:Georgia;">The <strong style="color:#0099e6;font-size:35px;font-family:Georgia;">Dataset </strong></strong></strong></strong></h3>
 
@@ -27,4 +27,4 @@ https://omaryehia012-epsilon-t-zomato-resturants-classfictionapp-93o00p.streamli
         
 </p>
 
-![](https://github.com/omaryehia012/Epsilon-training-projects/blob/main/Zomato_Resturants_Classfiction/Application.png)
+![](https://github.com/omaryehia012/Epsilon-training-projects/blob/main/Zomato_Resturants_Classfiction/images/Application.png)
