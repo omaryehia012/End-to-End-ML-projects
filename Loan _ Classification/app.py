@@ -2,8 +2,10 @@ import streamlit as st
 import joblib 
 import pandas as pd
 
-Inputs = joblib.load("inputs.h5")
-Model = joblib.load("model.h5")
+Inputs = joblib.load(open("Loan_Classification\inputs.h5",'rb'))
+Model = joblib.load(open("Loan_Classification\model.h5",'rb))
+                         
+@st.cache()                         
 
 def predict(Gender,Married,Dependents, Education,Self_Employed,ApplicantIncome,CoapplicantIncome,LoanAmount,
         Loan_Amount_Term,Credit_History,Property_Area):
@@ -61,7 +63,7 @@ def main():
         st.markdown(f'<h1 style="color:#33ff33;font-size:40px;text-align:center;border-style: solid;border-width:5px;border-color:#fbff00;">{label[result]}</h1>', unsafe_allow_html=True)
    
    ## show resturant image
-    st.image('images/Loan.jpg')    
+    st.image('Loan_Classification/images/Loan.jpg')    
      
 if __name__=='__main__': 
     main()
