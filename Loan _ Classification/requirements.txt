@@ -1,4 +1,0 @@
-numpy
-joblib
-pandas
-scikit_learn
